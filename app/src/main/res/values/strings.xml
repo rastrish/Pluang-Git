@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pluang Git</string>
+    <string name="network_connection_error">Please check Internet Connection</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
 </resources>
